@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <link href="newcss.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+        <div class="header">
+            <div class="inner-header">
+                <div class="logo">CBeauty</div>
+                   
+                
+                <div class="header-link">
+                    <a href="#Login">Login</a>                      
+                </div> 
+                <div class="header-link">
+                    <a href="#Sign Up">Sign Up</a>
+                    
+                </div>
+                <div class="header-link">
+                    <a href="#About Us">About Us</a>
+                    
+                </div>
+                <div class="header-link">
+                    <a href="#Contact Us">Contact Us</a>
+                    
+                </div>
+            </div>
+            
+        </div>
+        <div class="content">
+            <div class="banner-image">
+                <div class="inner-banner-image">
+                    <div class="banner_content">
+                        <h2>The Best Dresses and Beauty Products</h2>
+                        <h4>To Make You Feel Like the Most Beautiful Woman in the World</h4>
+                        <p>Flat 40% OFF</p>
+                        <a class="button" href="#">Shop Now</a>
+                    </div>                                        
+                </div>                
+            </div>            
+        
+        
+        <footer>
+            <div class="container">                
+                <p>Contact Us: +91 90000 00000</p>               
+            </div>
+        </footer>
+            
+    </body>
+</html>
